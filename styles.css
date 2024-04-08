@@ -122,7 +122,6 @@ nav #nav-get-started:hover {
   align-items: center;
   flex-wrap: wrap;
   margin-bottom: 38px;
-  z-index: 99;
 }
 .landing-main-text {
   margin: 0;
